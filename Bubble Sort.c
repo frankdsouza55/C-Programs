@@ -1,4 +1,3 @@
-/*Expt No: 9d*/
 /*Programmer: Frank G. D'Souza*/
 /*Title: C program to implement Bubble Sort*/
 #include<stdio.h>
