@@ -1,4 +1,3 @@
-/*Expt No: 9c*/
 /*Programmer: Frank G. D'Souza*/
 /*Title: C program to implement Tree Search*/
 #include<stdio.h>
