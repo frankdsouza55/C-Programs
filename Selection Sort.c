@@ -1,4 +1,3 @@
-/*Expt No: 9f*/
 /*Programmer: Frank G. D'Souza*/
 /*Title: C program to implement Selection Sort*/
 #include<stdio.h>
