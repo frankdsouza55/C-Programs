@@ -1,4 +1,3 @@
-/*Expt No: 9e*/
 /*Programmer: Frank G. D'Souza*/
 /*Title: C program to implement Insertion Sort*/
 #include<stdio.h>
