@@ -1,4 +1,3 @@
-/*Expt No: 9b*/
 /*Programmer: Frank G. D'Souza*/
 /*Title: C program to implement Binary Search*/
 #include<stdio.h>
