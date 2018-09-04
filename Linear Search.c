@@ -1,4 +1,3 @@
-/*Expt No: 9a*/
 /*Programmer: Frank G. D'Souza*/
 /*Title: C program to implement Linear Search*/
 #include<stdio.h>
