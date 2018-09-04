@@ -1,4 +1,3 @@
-/*Expt No: 9g*/
 /*Programmer: Frank G. D'Souza*/
 /*Title: C program to implement Radix sort*/
 #include<stdio.h>
